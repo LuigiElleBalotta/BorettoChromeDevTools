@@ -1,4 +1,4 @@
-# Boretto Chrome DevTools
+# Boretto Chrome DevTools POWER - for Kiro
 
 A Kiro Power that wraps the Chrome DevTools MCP server, providing full browser automation, debugging, performance analysis, and web scraping capabilities.
 

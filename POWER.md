@@ -3,7 +3,7 @@ name: "BorettoChromeDevTools"
 displayName: "Boretto Chrome DevTools"
 description: "Control and inspect a live Chrome browser with full DevTools access for automation, debugging, performance analysis, and web scraping using the Chrome DevTools Protocol"
 keywords: ["chrome", "browser", "automation", "devtools", "puppeteer", "performance", "debugging", "screenshot", "scraping"]
-author: "Luigi Ella Balotta"
+author: "Luigi Elle Balotta"
 ---
 
 # Chrome DevTools
