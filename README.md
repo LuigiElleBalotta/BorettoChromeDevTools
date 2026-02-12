@@ -109,9 +109,9 @@ For complete documentation, workflows, troubleshooting, and best practices, see 
 
 This power wraps the official [Chrome DevTools MCP server](https://github.com/ChromeDevTools/chrome-devtools-mcp) maintained by the Chrome DevTools team.
 
-**Author:** Boretto  
+**Author:** Luigi Ella Balotta (Boretto)  
 **Repository:** https://github.com/LuigiElleBalotta/BorettoChromeDevTools  
-**License:** MIT
+**License:** GNU General Public License v3.0
 
 ## Support
 
